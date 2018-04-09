@@ -1,0 +1,6 @@
+C:\Users\hersyck\Desktop\8vo Semestre Materias\Algoritmos Geneticos (Asdrubal Lopez Chau)\minimoFuncion\minimoFuncion\bin\Debug\minimoFuncion.exe.config
+C:\Users\hersyck\Desktop\8vo Semestre Materias\Algoritmos Geneticos (Asdrubal Lopez Chau)\minimoFuncion\minimoFuncion\obj\Debug\minimoFuncion.csprojResolveAssemblyReference.cache
+C:\Users\hersyck\Desktop\8vo Semestre Materias\Algoritmos Geneticos (Asdrubal Lopez Chau)\minimoFuncion\minimoFuncion\bin\Debug\minimoFuncion.exe
+C:\Users\hersyck\Desktop\8vo Semestre Materias\Algoritmos Geneticos (Asdrubal Lopez Chau)\minimoFuncion\minimoFuncion\bin\Debug\minimoFuncion.pdb
+C:\Users\hersyck\Desktop\8vo Semestre Materias\Algoritmos Geneticos (Asdrubal Lopez Chau)\minimoFuncion\minimoFuncion\obj\Debug\minimoFuncion.exe
+C:\Users\hersyck\Desktop\8vo Semestre Materias\Algoritmos Geneticos (Asdrubal Lopez Chau)\minimoFuncion\minimoFuncion\obj\Debug\minimoFuncion.pdb
